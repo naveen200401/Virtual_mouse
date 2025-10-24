@@ -60,7 +60,7 @@ Virtual Mouse Control System is a Python-based hand gesture recognition applicat
 ### Scrolling & Volume Control
 ![Gesture Demo](https://via.placeholder.com/600x300?text=Add+Your+Gesture+Demo+Here)
 
-> **Note**: Replace placeholder images with actual screenshots or GIFs of your application in action
+
 
 ---
 
